@@ -1,0 +1,22 @@
+[
+  {
+    "id": "CP-1001",
+    "title": "Wi-Fi unavailable in library",
+    "description": "Unable to connect to campus network.",
+    "category": "Network",
+    "location": "Library",
+    "reporter": "Demo Student",
+    "status": "In Progress",
+    "createdAt": "2026-11-26T09:30:00.000Z"
+  },
+  {
+    "id": "CP-1002",
+    "title": "Projector not working",
+    "description": "Projector will not turn on.",
+    "category": "Hardware",
+    "location": "Seminar Hall",
+    "reporter": "Demo Student",
+    "status": "Open",
+    "createdAt": "2026-11-26T11:15:00.000Z"
+  }
+]
