@@ -1,2 +1,2 @@
-# my-first-project
+# Campus Talks
 is is a good practice as it serves as a brief overview of your project.
